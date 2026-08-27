@@ -1,4 +1,4 @@
-// เพิ่ม JavaScript สๆหรับการโต้ตอบกับผู้ใช้ (Optionl)
-document.addEventListener('DOMContentLoaded',function () {
-    console.log('Portfolio ของ SOMCHAI พร้อมแล้ว!');
+document.addEventlistener('DOMContentLoaded',function () {
+    document.getElementById('year').innerHTML = new Date().getFullYear();
+    console.log('Portfolio ของ Phurichaya พร้อมแล้ว!');
 });
