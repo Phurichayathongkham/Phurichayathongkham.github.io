@@ -6,7 +6,7 @@ body {
     background-color: #f4f4f4; /* สีพื้นหลังของเว็บ */
     color: #333; /* สีตัวอักษรหลัก */
 header h1 {
-    background: #4CAF50; /* สีพื้นหลังของส่วนหัว */
+    background: #0a0f0f; /* สีพื้นหลังของส่วนหัว */
     color: white; /* สีข้อความ */
     padding: 20px 0; /* ระยะห่างด้านบนและล่าง */
     text-align: center; /* จัดข้อความถึงกลาง */
@@ -27,7 +27,7 @@ section {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* เพิ่มเงาเบา ๆ */
 }
 h2 {
-    color: #4CAF50; /* สีของหัวข้อ */
+    color: #0a0f0f; /* สีของหัวข้อ */
 .project {
     margin-bottom: 20;
 }
